@@ -1,0 +1,2 @@
+The balance of Atanas's account is now: EasyMock for class Account
+The balance of Atanas account is: EasyMock for class Account
